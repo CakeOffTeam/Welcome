@@ -4,7 +4,7 @@
 
 # Welcome KAT
 
-## How to use github
+## Today we'll talk about github
 
 !SLIDE
 
@@ -13,3 +13,4 @@
 
 !SLIDE
 # Where to start?
+
