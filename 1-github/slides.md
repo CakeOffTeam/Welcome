@@ -4,12 +4,16 @@
 
 # Welcome KAT
 
-## Today we'll talk about github
+## Today we'll talk about github And install Android sdk
 
 !SLIDE
 
 # Why?
  * Cause it's awesome
+
+!SLIDE left
+# Install Android Sdk
+ * (http://developer.android.com/sdk/index.html?utm_source=weibolife)
 
 !SLIDE
 # Where to start?
@@ -65,3 +69,4 @@
  * [Git website](http://git-scm.com/)
  * [Git interactive cheat sheat](http://ndpsoftware.com/git-cheatsheet.html)
  * [Git commands explained](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/)
+ 
