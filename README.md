@@ -10,11 +10,13 @@ This repository will host our DevMilestone, keynotes and miscellaneous informati
   * Miscellaneous: News and discussion related to our work.
 
 
-#Next Milestone#
+##Dev Milestone##
+###Next Milestone###
 Créer une application Android partagé sur Git utilisant un texte et une action (bouton, ...).
+Discuss [Here]
 
-
-Pour les précédents Milestone, c'est [Ici]
+###Previous Milestone###
+1. [Setting Up Android IDE and GitHub Project.]
 
 
 ## Presentation
