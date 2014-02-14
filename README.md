@@ -35,6 +35,8 @@ http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/
 http://www.youtube.com/watch?v=1ffBJ4sVUb4
 
 ## Tutoriels et Ressources Android
+API Android: http://developer.android.com/reference/android/package-summary.html  
+
 http://www.androidhive.info/
 
 http://fr.openclassrooms.com/informatique/android/cours
