@@ -3,6 +3,13 @@ Welcome
 
 This repository will host our keynotes and information.
 
+#Next Milestone#
+Créer une application Android partagé sur Git utilisant un texte et une action (bouton, ...).
+
+
+Pour les précédents Milestone, c'est [Ici]
+
+
 ## Presentation
 
 We use [Keydown](https://github.com/infews/keydown/blob/master/README.md) to create our presentations.
