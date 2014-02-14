@@ -1,7 +1,14 @@
-Welcome
-=======
+CakeOffTeam
+===========
+Our purpose, have fun and discover Android Development.
 
-This repository will host our keynotes and information.
+We will work on a weekly basis to explore and play with Android App Development.
+
+This repository will host our DevMilestone, keynotes and miscellaneous information.
+  * DevMilestone: Weekly homework and Challenge to progress in Android Development
+  * Keynotes: Share discovery, usefull tips through short presentation using [Keydown](https://github.com/infews/keydown/blob/master/README.md) 
+  * Miscellaneous: News and discussion related to our work.
+
 
 #Next Milestone#
 Créer une application Android partagé sur Git utilisant un texte et une action (bouton, ...).
