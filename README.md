@@ -13,10 +13,10 @@ This repository will host our DevMilestone, keynotes and miscellaneous informati
 ###Next Milestone###
 Create your first Android Application using at least a TextZone and an active object (button, ...).  
 Share it on Git.  
-Discuss [Here]
+Discuss [Here](https://github.com/CakeOffTeam/Welcome/issues?milestone=2&state=open)
 
 ###Previous Milestone###
-1. [Setting Up Android IDE and GitHub Project.]
+1. [Setting Up Android IDE and GitHub Project.](https://github.com/CakeOffTeam/Welcome/issues?milestone=1&state=open)
 
 
 ## Presentation
