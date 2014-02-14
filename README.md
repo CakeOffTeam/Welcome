@@ -12,7 +12,10 @@ This repository will host our DevMilestone, keynotes and miscellaneous informati
 
 ##Dev Milestone##
 ###Next Milestone###
-Créer une application Android partagé sur Git utilisant un texte et une action (bouton, ...).
+Create your first Android Application using at least a TextZone and an active object (button, ...).
+
+Share it on Git.
+
 Discuss [Here]
 
 ###Previous Milestone###
