@@ -1,16 +1,15 @@
 Welcome
 =======
 
-This repository will host our keynotes
+This repository will host our keynotes and information.
 
 ## Presentation
 
-We use Keydown to create our presentations.
+We use [Keydown](https://github.com/infews/keydown/blob/master/README.md) to create our presentations.
+Group Documentation and Wiki uses [Markdown](http://fr.wikipedia.org/wiki/Markdown) notation.
 
 ## Google drive
-Ebook Android
-
-https://drive.google.com/folderview?id=0B-jnXXW6MxFHTVozcEM3OUJrRzg&usp=sharing
+[Ebook Android] (https://drive.google.com/folderview?id=0B-jnXXW6MxFHTVozcEM3OUJrRzg&usp=sharing)
 
 
 ## Git
