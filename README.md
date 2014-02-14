@@ -1,8 +1,7 @@
 CakeOffTeam
 ===========
-Our purpose, have fun and discover Android Development.
-
-We will work on a weekly basis to explore and play with Android App Development.
+Our purpose, have fun and discover Android Development.  
+We will work on a weekly basis to explore and play with Android App Development.  
 
 This repository will host our DevMilestone, keynotes and miscellaneous information.
   * DevMilestone: Weekly homework and Challenge to progress in Android Development
@@ -12,10 +11,8 @@ This repository will host our DevMilestone, keynotes and miscellaneous informati
 
 ##Dev Milestone##
 ###Next Milestone###
-Create your first Android Application using at least a TextZone and an active object (button, ...).
-
-Share it on Git.
-
+Create your first Android Application using at least a TextZone and an active object (button, ...).  
+Share it on Git.  
 Discuss [Here]
 
 ###Previous Milestone###
@@ -24,14 +21,14 @@ Discuss [Here]
 
 ## Presentation
 
-We use [Keydown](https://github.com/infews/keydown/blob/master/README.md) to create our presentations.
+We use [Keydown](https://github.com/infews/keydown/blob/master/README.md) to create our presentations.  
 Group Documentation and Wiki uses [Markdown](http://fr.wikipedia.org/wiki/Markdown) notation.
 
 ## Google drive
 [Ebook Android] (https://drive.google.com/folderview?id=0B-jnXXW6MxFHTVozcEM3OUJrRzg&usp=sharing)
 
 
-## Git
+## Information on Git
 
 http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/
 
